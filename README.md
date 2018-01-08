@@ -1,4 +1,3 @@
-
 # Loop and modified Butterfly subdivision
 
 ## T Shape Loop
@@ -21,10 +20,10 @@
 ![IGEA](https://github.com/Throbbing/SurfaceSubdivsion/blob/master/Result/IGEA4000_LOOP_1.PNG)
 ![IGEA](https://github.com/Throbbing/SurfaceSubdivsion/blob/master/Result/IGEA4000_LOOP_2.PNG)
 
-## IGEA_SIMPLE1000 Butterfly
+## IGEA_SIMPLE4000 Butterfly
 ![IGEA](https://github.com/Throbbing/SurfaceSubdivsion/blob/master/Result/IGEA4000_Butterfly_1.PNG)
 ![IGEA](https://github.com/Throbbing/SurfaceSubdivsion/blob/master/Result/IGEA4000_Butterfly_2.PNG)
 
 
-
-## The core subdivision codes are in subdivide file
+## Note
+### The core subdivision codes are in subdivide file
