@@ -1,5 +1,5 @@
-# SurfaceSubdivsion
-Loop and modified Butterfly subdivision
+
+# Loop and modified Butterfly subdivision
 
 ## T Shape Loop
 ![tshape](https://github.com/Throbbing/SurfaceSubdivsion/blob/master/Result/T_LOOP_1.PNG)
